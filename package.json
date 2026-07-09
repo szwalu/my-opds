@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "webdav": "^5.2.3"
+    "webdav": "^4.2.1"
   }
 }
